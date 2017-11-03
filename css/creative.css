@@ -21,11 +21,11 @@ hr.light {
 
 a {
   color: #F05F40;
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  transition: all 0.2s; }
+  -webkit-transition: all 0s;
+  -moz-transition: all 0s;
+  transition: all 0s; }
   a:focus, a:hover {
-    color: black; }
+    color: #f26522; }
 
 h1,
 h2,
